@@ -1,0 +1,11 @@
+.coin-text {
+  margin-bottom: 32px;
+  text-align: center;
+}
+
+.coin-app {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 64px;
+}
